@@ -1,0 +1,3917 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "170",
+        " 開設者": "静岡県厚生農業協同組合連合会",
+        " 管理者": "西村　明人",
+        "name": "ＪＡ静岡厚生連　清水厚生病院",
+        "address1": "清水区庵原町５７８番地の１",
+        "address2": "",
+        "start_date": "1981/10/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.474397,
+          35.045545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "29",
+        " 開設者": "静岡県厚生農業協同組合連合会",
+        " 管理者": "水野　伸一",
+        "name": "ＪＡ静岡厚生連　静岡厚生病院",
+        "address1": "葵区北番町２３番地",
+        "address2": "",
+        "start_date": "1949/09/03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.370127,
+          34.978792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "116",
+        " 開設者": "医療法人社団　朋仁会",
+        " 管理者": "吉井　仁",
+        "name": "ＪＩＮクリニック",
+        "address1": "駿河区聖一色414番地の８",
+        "address2": "",
+        "start_date": "2019/11/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.426372,
+          34.986495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "3",
+        " 開設者": "医療法人社団　唐木会",
+        " 管理者": "秋山仁一郎",
+        "name": "あきやま呼吸器クリニック",
+        "address1": "葵区呉服町二丁目２番地の30",
+        "address2": "",
+        "start_date": "2000/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.382043,
+          34.974365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "88",
+        " 開設者": "医療法人社団あさいクリニック",
+        " 管理者": "浅井隆志",
+        "name": "あさいクリニック",
+        "address1": "駿河区津島町6-31",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.383307,
+          34.959419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "89",
+        " 開設者": "柳岡　正範",
+        " 管理者": "柳岡　正範",
+        "name": "あしたば診療所",
+        "address1": "駿河区中島1687番地の２",
+        "address2": "",
+        "start_date": "2019/04/22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.400873,
+          34.934906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "90",
+        " 開設者": "塩川　あずさ",
+        " 管理者": "塩川　あずさ",
+        "name": "あずさ眼科",
+        "address1": "駿河区中田三丁目３番５号",
+        "address2": "クリエイトＳＤ静岡中田店２階",
+        "start_date": "2018/05/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.398622,
+          34.960539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "7",
+        " 開設者": "医療法人社団　純真会",
+        " 管理者": "伊藤　純一",
+        "name": "いとう耳鼻咽喉科",
+        "address1": "葵区千代田六丁目30番26号",
+        "address2": "",
+        "start_date": "2005/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.408673,
+          34.999087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "96",
+        " 開設者": "医療法人社団　静福会",
+        " 管理者": "岩田　真喜子",
+        "name": "うえだ小児科",
+        "address1": "駿河区登呂六丁目13番36号",
+        "address2": "",
+        "start_date": "1989/09/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.403536,
+          34.952076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "155",
+        " 開設者": "医療法人社団　慶壽会",
+        " 管理者": "江口　豊壽",
+        "name": "えぐち内科クリニック",
+        "address1": "清水区日立町4番4号",
+        "address2": "",
+        "start_date": "2007/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.486281,
+          34.99472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "159",
+        " 開設者": "大貫　勝美",
+        " 管理者": "大貫　勝美",
+        "name": "おおぬき内科クリニック",
+        "address1": "清水区押切2002番地の１",
+        "address2": "",
+        "start_date": "2015/10/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.455966,
+          35.033324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "99",
+        " 開設者": "医療法人社団　栄成会",
+        " 管理者": "佐藤栄作",
+        "name": "おおや整形外科クリニック",
+        "address1": "駿河区片山8-15",
+        "address2": "",
+        "start_date": "2001/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.423114,
+          34.966147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "160",
+        " 開設者": "大久保　亜季",
+        " 管理者": "大久保　亜季",
+        "name": "おきつ耳鼻咽喉科クリニック",
+        "address1": "清水区八木間町1662番地の１",
+        "address2": "",
+        "start_date": "2017/10/03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.524311,
+          35.064376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "100",
+        " 開設者": "医療法人社団　藤信会",
+        " 管理者": "臼倉　洋子",
+        "name": "おさだ耳鼻咽喉科",
+        "address1": "駿河区丸子新田536番地",
+        "address2": "",
+        "start_date": "2015/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.367528,
+          34.945301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "161",
+        " 開設者": "医療法人社団　オハナクリニック木の下町",
+        " 管理者": "八木　知子",
+        "name": "オハナクリニック木の下町",
+        "address1": "清水区木の下町44番地の１",
+        "address2": "",
+        "start_date": "2017/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.469846,
+          35.004052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "30",
+        " 開設者": "医療法人社団　静岡循環器クリニック",
+        " 管理者": "表　信吾",
+        "name": "おもて循環器科",
+        "address1": "葵区馬場町110",
+        "address2": "",
+        "start_date": "1987/09/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.378549,
+          34.977925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "14",
+        " 開設者": "医療法人社団　灯弘会",
+        " 管理者": "影山　慎二",
+        "name": "かげやま医院",
+        "address1": "葵区相生町9番5号",
+        "address2": "",
+        "start_date": "2006/02/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.392714,
+          34.978734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "163",
+        " 開設者": "門田　景介",
+        " 管理者": "門田　景介",
+        "name": "かどたこどもクリニック",
+        "address1": "清水区北脇580番地の１",
+        "address2": "",
+        "start_date": "2016/04/20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.461371,
+          35.019217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "17",
+        " 開設者": "医療法人社団　直和会",
+        " 管理者": "杉山　直幹",
+        "name": "かみあし整形外科ペインクリニック",
+        "address1": "葵区上足洗一丁目２番38号",
+        "address2": "",
+        "start_date": "2011/10/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.395674,
+          34.988116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "102",
+        " 開設者": "河原　秀俊",
+        " 管理者": "河原　秀俊",
+        "name": "かわはら医院　小児科・アレルギー科",
+        "address1": "駿河区登呂二丁目９番32号",
+        "address2": "",
+        "start_date": "2008/03/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.413899,
+          34.958631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "18",
+        " 開設者": "医療法人社団かん小児科",
+        " 管理者": "菅明彦",
+        "name": "かん小児科クリニック",
+        "address1": "葵区長沼258番地の７",
+        "address2": "",
+        "start_date": "2003/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.411078,
+          34.991002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "103",
+        " 開設者": "医療法人社団　恵勇会",
+        " 管理者": "菊池隆介",
+        "name": "きくち内科医院",
+        "address1": "駿河区新川二丁目８番３号",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.385621,
+          34.961155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "19",
+        " 開設者": "北澤　透",
+        " 管理者": "北澤　透",
+        "name": "きたざわ内科",
+        "address1": "葵区田町二丁目3-1",
+        "address2": "",
+        "start_date": "2005/11/18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.367219,
+          34.974473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "104",
+        " 開設者": "医療法人社団　ありす倶楽部",
+        " 管理者": "佐野正",
+        "name": "キッズクリニックさの",
+        "address1": "駿河区敷地1-18-19",
+        "address2": "",
+        "start_date": "2004/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.413091,
+          34.951326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "105",
+        " 開設者": "医療法人社団　ＲＳＧ",
+        " 管理者": "倉田　亮",
+        "name": "くらた整形外科",
+        "address1": "駿河区下川原二丁目１番33号",
+        "address2": "",
+        "start_date": "2014/12/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.37668,
+          34.941274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "106",
+        " 開設者": "医療法人社団　こぐま",
+        " 管理者": "早川聡",
+        "name": "こぐまこどもクリニック",
+        "address1": "駿河区国吉田5-13-1",
+        "address2": "",
+        "start_date": "2004/01/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.433382,
+          34.991428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "107",
+        " 開設者": "権　永鉄",
+        " 管理者": "権　永鉄",
+        "name": "ごんクリニック",
+        "address1": "駿河区高松二丁目５番18号",
+        "address2": "",
+        "start_date": "2003/04/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.420837,
+          34.953868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "25",
+        " 開設者": "医療法人社団　さそうクリニック",
+        " 管理者": "佐宗　春美",
+        "name": "さそう内科・呼吸器科クリニック",
+        "address1": "葵区大鋸町２番５号",
+        "address2": "",
+        "start_date": "2006/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.37561,
+          34.972782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "26",
+        " 開設者": "古川　敬芳",
+        " 管理者": "古川　敬芳",
+        "name": "しずおか葵の森クリニック",
+        "address1": "葵区柳町１９３－１",
+        "address2": "",
+        "start_date": "2009/04/17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.363414,
+          34.979414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "171",
+        " 開設者": "医療法人社団　博仁会",
+        " 管理者": "宮地　武彦",
+        "name": "しみず巴クリニック",
+        "address1": "清水区千歳町２番30号",
+        "address2": "",
+        "start_date": "2013/06/15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.483808,
+          35.015337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "41",
+        " 開設者": "医療法人社団香会",
+        " 管理者": "白岩紀久男",
+        "name": "しらいわ医院",
+        "address1": "葵区安東二丁目８番14号",
+        "address2": "",
+        "start_date": "2006/09/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.385628,
+          34.98761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "48",
+        " 開設者": "医療法人社団　かもっ子クラブ",
+        " 管理者": "砂川佳昭",
+        "name": "すながわこどもクリニック",
+        "address1": "葵区井宮町103-1",
+        "address2": "",
+        "start_date": "2003/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.370366,
+          34.986655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "176",
+        " 開設者": "医療法人社団梨慶会",
+        " 管理者": "山内　晃",
+        "name": "するがクリニック",
+        "address1": "清水区庄福町９番23号",
+        "address2": "",
+        "start_date": "2010/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.478823,
+          34.998697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "182",
+        " 開設者": "田村　晋",
+        " 管理者": "田村　晋",
+        "name": "たむら整形外科",
+        "address1": "清水区庄福町９番15号",
+        "address2": "",
+        "start_date": "2014/05/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.478559,
+          34.998628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "122",
+        " 開設者": "医療法人社団　めぐみ",
+        " 管理者": "遠藤　博之",
+        "name": "たんぽぽ診療所",
+        "address1": "駿河区中吉田26番16号",
+        "address2": "",
+        "start_date": "2007/07/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.436679,
+          34.998499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "54",
+        " 開設者": "医療法人社団　てらむらクリニック",
+        " 管理者": "寺村　淳",
+        "name": "てらむらクリニック",
+        "address1": "葵区千代田六丁目３０番１３号",
+        "address2": "",
+        "start_date": "1989/06/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.408109,
+          34.999601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "56",
+        " 開設者": "医療法人社団ともの",
+        " 管理者": "伴野　健太",
+        "name": "ともの整形外科クリニック",
+        "address1": "葵区上土一丁目１番71号",
+        "address2": "",
+        "start_date": "2012/12/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.415333,
+          34.999301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "184",
+        " 開設者": "土屋　智義",
+        " 管理者": "土屋　智義",
+        "name": "とも内科・呼吸器内科",
+        "address1": "清水区天王東６番18号",
+        "address2": "",
+        "start_date": "2016/02/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.462704,
+          35.029752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "185",
+        " 開設者": "医療法人社団高部会",
+        " 管理者": "倉部　崇",
+        "name": "ないとう内科・循環器内科",
+        "address1": "清水区押切2380番地",
+        "address2": "",
+        "start_date": "2016/10/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.452177,
+          35.031826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "58",
+        " 開設者": "医療法人社団　のの村",
+        " 管理者": "野々村光栄",
+        "name": "のの村耳鼻咽喉科クリニック",
+        "address1": "葵区若松町98－1",
+        "address2": "",
+        "start_date": "2005/01/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.366564,
+          34.983014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "129",
+        " 開設者": "医療法人社団　F・T・Y",
+        " 管理者": "深沢　智基",
+        "name": "ふかさわ消化器科・内科",
+        "address1": "駿河区中原502番地の２",
+        "address2": "",
+        "start_date": "2010/10/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.388551,
+          34.954945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "61",
+        " 開設者": "医療法人社団　葵メディカル",
+        " 管理者": "古川　憲一",
+        "name": "ふるかわ北安東クリニック",
+        "address1": "葵区北安東四丁目５番32号",
+        "address2": "",
+        "start_date": "2007/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.390122,
+          35.002009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "65",
+        " 開設者": "医療法人社団眞生会",
+        " 管理者": "大久保　雅之",
+        "name": "マイクリニック大久保",
+        "address1": "葵区川合2-1-20",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.415792,
+          35.002559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "135",
+        " 開設者": "大石　真広",
+        " 管理者": "大石　真広",
+        "name": "みずほ・おおいしクリニック",
+        "address1": "駿河区みずほ二丁目５番地の26",
+        "address2": "",
+        "start_date": "2015/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.37045,
+          34.939852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "72",
+        " 開設者": "医療法人社団医啓会",
+        " 管理者": "三竹啓敏",
+        "name": "みたけ内科循環器科クリニック",
+        "address1": "葵区東鷹匠町4-10",
+        "address2": "",
+        "start_date": "2004/05/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.391231,
+          34.981622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "76",
+        " 開設者": "医療法人社団沓谷もちづき整形外科",
+        " 管理者": "望月　久司",
+        "name": "もちづき整形外科",
+        "address1": "葵区沓谷4-1-39",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.404423,
+          34.993935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "139",
+        " 開設者": "森下　雄大",
+        " 管理者": "森下　雄大",
+        "name": "もりもりキッズ・アレルギークリニック",
+        "address1": "駿河区下川原五丁目18番33号",
+        "address2": "",
+        "start_date": "2020/08/03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.37959,
+          34.936641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "140",
+        " 開設者": "鈴木　喜之",
+        " 管理者": "鈴木　喜之",
+        "name": "やはた内科・循環器内科",
+        "address1": "駿河区八幡四丁目７－21",
+        "address2": "",
+        "start_date": "2009/01/19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.398644,
+          34.966727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "195",
+        " 開設者": "医療法人社団　ゆうかり会",
+        " 管理者": "山田　和人",
+        "name": "やまだメディカルクリニック",
+        "address1": "清水区江尻町９番１２号",
+        "address2": "",
+        "start_date": "2007/07/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.482158,
+          35.020592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "81",
+        " 開設者": "小長井　英生",
+        " 管理者": "小長井　英生",
+        "name": "ゆずの木町内科・循環器科",
+        "address1": "葵区柚木町２番地",
+        "address2": "",
+        "start_date": "2006/09/20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.372863,
+          34.978911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "85",
+        " 開設者": "医療法人社団　雄栄会",
+        " 管理者": "古川　雄一",
+        "name": "レディースクリニック古川",
+        "address1": "葵区安東三丁目10番５号",
+        "address2": "",
+        "start_date": "2007/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.385609,
+          34.990766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "144",
+        " 開設者": "医療法人社団わたなべクリニック",
+        " 管理者": "渡邉憲治",
+        "name": "わたなべクリニック",
+        "address1": "駿河区南町６番16-104号",
+        "address2": "",
+        "start_date": "1999/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.389187,
+          34.969552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "4",
+        " 開設者": "医療法人社団　昭府内科クリニック",
+        " 管理者": "安達光宣",
+        "name": "安達内科・循環器科",
+        "address1": "葵区昭府二丁目22番８号",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.370193,
+          35.003653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "149",
+        " 開設者": "医療法人社団　清源会",
+        " 管理者": "伊藤　保源",
+        "name": "伊藤医院",
+        "address1": "清水区平川地１７番３８号",
+        "address2": "",
+        "start_date": "2014/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.460663,
+          35.010113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "6",
+        " 開設者": "医療法人社団聴声会",
+        " 管理者": "伊藤　靖郎",
+        "name": "伊藤医院",
+        "address1": "葵区梅屋町１番地の７",
+        "address2": "",
+        "start_date": "2007/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.378074,
+          34.972848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "75",
+        " 開設者": "医療法人社団　若葉会宮下医院",
+        " 管理者": "宮下裕三",
+        "name": "医療法人社団若葉会宮下医院",
+        "address1": "葵区羽鳥一丁目７番13号",
+        "address2": "",
+        "start_date": "1999/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.345263,
+          34.979994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "34",
+        " 開設者": "医療法人社団清明会",
+        " 管理者": "小嶋　康則",
+        "name": "医療法人社団清明会　静岡リハビリテーション病院",
+        "address1": "葵区富沢１４０５番地",
+        "address2": "",
+        "start_date": "1997/06/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.25647,
+          35.022875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "128",
+        " 開設者": "医療法人財団　福恵会",
+        " 管理者": "福地康紀",
+        "name": "医療法人福恵会　東新田福地診療院",
+        "address1": "駿河区東新田五丁目16番10号",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.372722,
+          34.941774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "152",
+        " 開設者": "医療法人社団　マイルストーン",
+        " 管理者": "松尾　陽子",
+        "name": "浦島クリニックくすのき",
+        "address1": "清水区楠新田281番地の1",
+        "address2": "",
+        "start_date": "2017/10/12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.443843,
+          35.00879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "153",
+        " 開設者": "医療法人社団マイルストーン",
+        " 管理者": "浦島　哲郎",
+        "name": "浦島クリニック新院",
+        "address1": "清水区押切１４５６番地",
+        "address2": "",
+        "start_date": "2020/12/17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.456224,
+          35.02851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "154",
+        " 開設者": "医療法人社団　マイルストーン",
+        " 管理者": "岩下　力",
+        "name": "浦島メディカルクリニック",
+        "address1": "清水区押切1620番地",
+        "address2": "",
+        "start_date": "2008/09/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.45498,
+          35.029682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "11",
+        " 開設者": "榎本　哲也",
+        " 管理者": "榎本哲也",
+        "name": "榎本内科クリニック",
+        "address1": "葵区川合2-8-1",
+        "address2": "",
+        "start_date": "2003/04/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.418567,
+          35.002495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "110",
+        " 開設者": "医療法人社団　サーレ",
+        " 管理者": "塩川　和彦",
+        "name": "塩川八幡ヒルズクリニック",
+        "address1": "駿河区八幡五丁目32番10号",
+        "address2": "",
+        "start_date": "2007/01/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.40396,
+          34.968374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "150",
+        " 開設者": "医療法人社団　真和会　乾医院",
+        " 管理者": "乾　哲也",
+        "name": "乾医院",
+        "address1": "清水区西久保一丁目６番22号",
+        "address2": "",
+        "start_date": "1989/11/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.482755,
+          35.032216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "95",
+        " 開設者": "医療法人社団　宏生会岩はし内科医院",
+        " 管理者": "岩橋　昌雄",
+        "name": "岩はし内科医院",
+        "address1": "駿河区丸子一丁目６番22号",
+        "address2": "",
+        "start_date": "2019/08/19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.357654,
+          34.944973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "196",
+        " 開設者": "医療法人社団　永仁会",
+        " 管理者": "吉永　治彦",
+        "name": "吉永医院",
+        "address1": "清水区江尻東一丁目１番38号",
+        "address2": "",
+        "start_date": "1989/07/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.486777,
+          35.023361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "82",
+        " 開設者": "医療法人社団　福聚会",
+        " 管理者": "菊川達雄",
+        "name": "吉岡菊川耳鼻咽喉科医院",
+        "address1": "葵区上土二丁目７番37号",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.415728,
+          35.002281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "84",
+        " 開設者": "医療法人社団桜林会",
+        " 管理者": "吉川　俊之",
+        "name": "吉川医院",
+        "address1": "葵区竜南一丁目14番31号",
+        "address2": "",
+        "start_date": "2019/12/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.398521,
+          34.998698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "73",
+        " 開設者": "宮城島　正和",
+        " 管理者": "宮城島　正和",
+        "name": "宮城島耳鼻咽喉科医院",
+        "address1": "葵区上足洗二丁目７－８",
+        "address2": "",
+        "start_date": "2008/08/20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.390761,
+          34.99466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "74",
+        " 開設者": "医療法人社団　慈善会",
+        " 管理者": "宮城島　賢二",
+        "name": "宮城島内科医院",
+        "address1": "葵区唐瀬一丁目２番27号",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.385389,
+          35.007963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "194",
+        " 開設者": "医療法人社団　博仁会",
+        " 管理者": "宮地　邦彦",
+        "name": "宮地医院",
+        "address1": "清水区下野西7-7",
+        "address2": "",
+        "start_date": "1990/10/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.466115,
+          35.036237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "137",
+        " 開設者": "医療法人社団　芳月会",
+        " 管理者": "宮田　潤一",
+        "name": "宮田医院",
+        "address1": "駿河区国吉田4-24-17",
+        "address2": "",
+        "start_date": "2002/01/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.434038,
+          34.992403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "53",
+        " 開設者": "大杉　直",
+        " 管理者": "大杉　直",
+        "name": "玉川診療所",
+        "address1": "葵区落合243番地の６",
+        "address2": "",
+        "start_date": "2010/10/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.330989,
+          35.110565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "118",
+        " 開設者": "医療法人社団陽会",
+        " 管理者": "近藤　泰",
+        "name": "近藤医院",
+        "address1": "駿河区手越310番地",
+        "address2": "",
+        "start_date": "1990/05/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.36362,
+          34.953903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "21",
+        " 開設者": "栗山洋一",
+        " 管理者": "栗山洋一",
+        "name": "栗山医院　内科・皮膚科",
+        "address1": "葵区瀬名川1-23-28",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.42463,
+          35.004056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "126",
+        " 開設者": "医療法人社団Ｌ",
+        " 管理者": "原田　昌樹",
+        "name": "原田医院",
+        "address1": "駿河区中村町73番地の12",
+        "address2": "",
+        "start_date": "2012/10/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.392745,
+          34.954623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "62",
+        " 開設者": "佐藤　元",
+        " 管理者": "佐藤　元",
+        "name": "古庄さとう泌尿器科クリニック",
+        "address1": "葵区古庄三丁目２番72号",
+        "address2": "",
+        "start_date": "2016/09/13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.418067,
+          34.994785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "63",
+        " 開設者": "一般財団法人　福祉医療推進事業団",
+        " 管理者": "滝澤　明憲",
+        "name": "古庄わかばクリニック",
+        "address1": "葵区古庄五丁目３番21号",
+        "address2": "",
+        "start_date": "2016/06/06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.417161,
+          34.998179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "148",
+        " 開設者": "医療法人社団　啓心会",
+        " 管理者": "五十嵐　直人",
+        "name": "五十嵐医院",
+        "address1": "清水区蒲原三丁目11番13号",
+        "address2": "",
+        "start_date": "1993/08/02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.601703,
+          35.118577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "22",
+        " 開設者": "土屋　厚",
+        " 管理者": "土屋　厚",
+        "name": "呉服町土屋内科",
+        "address1": "葵区呉服町一丁目１-１４呉服町圭田ビル６",
+        "address2": "",
+        "start_date": "2004/04/20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.379576,
+          34.975995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "156",
+        " 開設者": "袴田　安彦",
+        " 管理者": "袴田　安彦",
+        "name": "江尻東クリニック",
+        "address1": "清水区江尻東三丁目８番18号",
+        "address2": "",
+        "start_date": "2011/09/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.485852,
+          35.019609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "10",
+        " 開設者": "医療法人社団　岳陽会",
+        " 管理者": "江良建",
+        "name": "江良医院",
+        "address1": "葵区岳美2-13",
+        "address2": "",
+        "start_date": "1989/01/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.387802,
+          35.007966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "71",
+        " 開設者": "溝口修身",
+        " 管理者": "溝口修身",
+        "name": "溝口クリニック",
+        "address1": "葵区古庄2-15-26",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.422902,
+          34.997407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "178",
+        " 開設者": "医療法人社団　高月医院",
+        " 管理者": "高月　誠",
+        "name": "高月医院",
+        "address1": "清水区上清水町3-1",
+        "address2": "",
+        "start_date": "1991/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.48398,
+          35.010727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "119",
+        " 開設者": "医療法人社団　慈高会",
+        " 管理者": "高野  哲",
+        "name": "高野外科胃腸科医院",
+        "address1": "駿河区中田一丁目７番11号",
+        "address2": "",
+        "start_date": "1989/01/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.393247,
+          34.964833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "8",
+        " 開設者": "今村好孝",
+        " 管理者": "今村好孝",
+        "name": "今村医院",
+        "address1": "葵区駒形通6-10-18",
+        "address2": "",
+        "start_date": "2001/03/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.373049,
+          34.96318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "24",
+        " 開設者": "医療法人社団　玲徳会",
+        " 管理者": "佐々木　玲聡",
+        "name": "佐々木ハートクリニック",
+        "address1": "葵区南瀬名町26番39号",
+        "address2": "",
+        "start_date": "2015/01/15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.421472,
+          35.005448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "168",
+        " 開設者": "医療法人社団　敬真会",
+        " 管理者": "佐藤　敬治",
+        "name": "佐藤医院",
+        "address1": "清水区大坪2丁目３番１２号",
+        "address2": "",
+        "start_date": "1990/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.470376,
+          35.010171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "109",
+        " 開設者": "医療法人社団双樹会",
+        " 管理者": "佐野三枝子",
+        "name": "佐野小児科",
+        "address1": "駿河区用宗1-20-17",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.365782,
+          34.928034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "186",
+        " 開設者": "望月　菜緒美",
+        " 管理者": "望月　菜緒美",
+        "name": "菜のはなファミリークリニック",
+        "address1": "清水区由比750",
+        "address2": "マンションＯａｋ１階",
+        "start_date": "2014/06/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.569338,
+          35.110587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "23",
+        " 開設者": "坂本　修一",
+        " 管理者": "坂本　修一",
+        "name": "坂本医院",
+        "address1": "葵区上足洗三丁目２-８",
+        "address2": "",
+        "start_date": "2007/05/13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.392416,
+          34.99481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "166",
+        " 開設者": "阪部　優夫",
+        " 管理者": "阪部　優夫",
+        "name": "阪部循環器内科・内科　婦人科クリニック",
+        "address1": "清水区駒越西一丁目２番62号",
+        "address2": "",
+        "start_date": "2016/03/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.495949,
+          34.976758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "193",
+        " 開設者": "医療法人社団　三浦医院",
+        " 管理者": "三浦　進",
+        "name": "三浦内科循環器科医院",
+        "address1": "清水区折戸５２１番地の１０",
+        "address2": "",
+        "start_date": "2005/11/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.514125,
+          34.995259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "133",
+        " 開設者": "三神　美久",
+        " 管理者": "三神　美久",
+        "name": "三神医院",
+        "address1": "駿河区西大谷４番地の４",
+        "address2": "",
+        "start_date": "2007/06/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.428108,
+          34.954904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "141",
+        " 開設者": "医療法人社団ミュー",
+        " 管理者": "山崎嘉弘",
+        "name": "山崎医院",
+        "address1": "駿河区新川一丁目１９番５号",
+        "address2": "",
+        "start_date": "2004/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.380396,
+          34.964572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "143",
+        " 開設者": "医療法人社団　慶静会",
+        " 管理者": "山中　芳",
+        "name": "山中整形外科",
+        "address1": "駿河区敷地一丁目28番６号",
+        "address2": "",
+        "start_date": "2003/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.413868,
+          34.952498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "142",
+        " 開設者": "山田孝史",
+        " 管理者": "山田孝史",
+        "name": "山田医院",
+        "address1": "駿河区聖一色473-1",
+        "address2": "",
+        "start_date": "2003/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.430072,
+          34.985828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "35",
+        " 開設者": "医療法人社団　眞和会",
+        " 管理者": "荒木　圭介",
+        "name": "耳鼻咽喉科  荒木医院",
+        "address1": "葵区新伝馬二丁目９番２２号",
+        "address2": "",
+        "start_date": "1989/06/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.366663,
+          34.998381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "113",
+        " 開設者": "医療法人社団　柴山クリニック",
+        " 管理者": "柴山修介",
+        "name": "柴山クリニック",
+        "address1": "駿河区登呂五丁目11番９号",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.406949,
+          34.956653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "169",
+        " 開設者": "医療法人社団　柴田医院",
+        " 管理者": "柴田　敏",
+        "name": "柴田内科医院",
+        "address1": "清水区西久保３１８",
+        "address2": "",
+        "start_date": "1998/01/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.486563,
+          35.033654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "177",
+        " 開設者": "医療法人社団　健和会",
+        " 管理者": "宗　幹之",
+        "name": "宗内科医院",
+        "address1": "清水区草薙139番地",
+        "address2": "",
+        "start_date": "2014/12/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.446734,
+          34.999152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "87",
+        " 開設者": "秋山征巳",
+        " 管理者": "秋山征巳",
+        "name": "秋山クリニック",
+        "address1": "駿河区八幡一丁目２番25号",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.393964,
+          34.972918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "2",
+        " 開設者": "秋田　剛史",
+        " 管理者": "秋田　剛史",
+        "name": "秋田内科・呼吸器内科",
+        "address1": "葵区籠上12番地の41",
+        "address2": "",
+        "start_date": "2018/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.36981,
+          34.99296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "15",
+        " 開設者": "医療法人社団　俊洋会",
+        " 管理者": "勝又　俊弥",
+        "name": "勝又医院",
+        "address1": "葵区大岩1-5-40",
+        "address2": "",
+        "start_date": "1989/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.381895,
+          34.993943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "162",
+        " 開設者": "小原　英昭",
+        " 管理者": "小原　英昭",
+        "name": "小原医院",
+        "address1": "清水区有度本町2-15",
+        "address2": "",
+        "start_date": "1996/10/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.452459,
+          35.007468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "36",
+        " 開設者": "医療法人社団　いいやま",
+        " 管理者": "飯山道郎",
+        "name": "小児科  いいやま医院",
+        "address1": "葵区東草深町8-18",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.38472,
+          34.984103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "101",
+        " 開設者": "医療法人社団　淳厚会",
+        " 管理者": "小長井淳弘",
+        "name": "小長井整形外科医院",
+        "address1": "駿河区新川二丁目５番３１号",
+        "address2": "",
+        "start_date": "2001/12/21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.38549,
+          34.961891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "174",
+        " 開設者": "医療法人社団　産声会",
+        " 管理者": "庄司　潔",
+        "name": "庄司産婦人科",
+        "address1": "清水区江尻東一丁目４番１号",
+        "address2": "",
+        "start_date": "1989/01/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.485008,
+          35.0234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "37",
+        " 開設者": "医療法人社団　昭府小児科クリニック",
+        " 管理者": "鈴木健",
+        "name": "昭府小児科クリニック",
+        "address1": "葵区昭府2-6-16",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.370176,
+          35.001473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "66",
+        " 開設者": "医療法人社団　徳和会",
+        " 管理者": "朝香　恭子",
+        "name": "松浦内科",
+        "address1": "葵区水落町12番14号",
+        "address2": "",
+        "start_date": "1997/01/24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.386384,
+          34.982994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "69",
+        " 開設者": "医療法人社団　松成内科クリニック",
+        " 管理者": "松成信彦",
+        "name": "松成内科クリニック",
+        "address1": "葵区大岩本町７番１号",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.381715,
+          34.989624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "132",
+        " 開設者": "医療法人社団　宏整会",
+        " 管理者": "松生宏文",
+        "name": "松生整形外科医院",
+        "address1": "駿河区西島528番地",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.402789,
+          34.943499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "68",
+        " 開設者": "医療法人社団　山吉会",
+        " 管理者": "松田　昌幸",
+        "name": "松田消化器内科クリニック",
+        "address1": "葵区城北24",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.394371,
+          34.999678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "192",
+        " 開設者": "医療法人社団慶清会",
+        " 管理者": "松本　隆志",
+        "name": "松本整形外科・皮膚科",
+        "address1": "清水区村松1-1-58",
+        "address2": "",
+        "start_date": "1998/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.489802,
+          34.997584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "67",
+        " 開設者": "医療法人社団　マッキー",
+        " 管理者": "松木　啓",
+        "name": "松木消化器内科クリニック",
+        "address1": "葵区千代田7-7-12",
+        "address2": "",
+        "start_date": "1999/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.404762,
+          35.003036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "16",
+        " 開設者": "八木　俊輔",
+        " 管理者": "八木　俊輔",
+        "name": "上足洗内科クリニック",
+        "address1": "葵区上足洗一丁目２番35号",
+        "address2": "",
+        "start_date": "2014/11/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.395905,
+          34.988269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "40",
+        " 開設者": "医療法人社団ハル",
+        " 管理者": "杉山　晴敏",
+        "name": "城北すぎやま整形外科",
+        "address1": "葵区大岩本町23－７",
+        "address2": "",
+        "start_date": "2007/01/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.377182,
+          34.986674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "38",
+        " 開設者": "医療法人社団偕翔会",
+        " 管理者": "大下　裕世",
+        "name": "城北共立クリニック",
+        "address1": "葵区城北111番地１の１",
+        "address2": "",
+        "start_date": "2002/06/03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.394949,
+          35.001439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "39",
+        " 開設者": "医療法人社団心誠会",
+        " 管理者": "小津　龍一朗",
+        "name": "城北耳鼻咽喉科",
+        "address1": "葵区城北29-1",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.395346,
+          35.000178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "44",
+        " 開設者": "医療法人社団隆優会",
+        " 管理者": "谷口　秀隆",
+        "name": "新静岡たにぐち眼科",
+        "address1": "葵区鷹匠一丁目１番１号",
+        "address2": "新静岡セノバ４階",
+        "start_date": "2020/11/13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.387308,
+          34.975559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "138",
+        " 開設者": "森園徹志",
+        " 管理者": "森園徹志",
+        "name": "森園クリニック　耳鼻咽喉科・アレルギー科",
+        "address1": "駿河区見瀬216",
+        "address2": "",
+        "start_date": "2001/01/19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.390823,
+          34.956673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "79",
+        " 開設者": "医療法人社団　美ノ郷会",
+        " 管理者": "森谷　晋",
+        "name": "森谷内科医院",
+        "address1": "葵区山崎一丁目26番地の９",
+        "address2": "",
+        "start_date": "2013/09/25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.351962,
+          34.977481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "78",
+        " 開設者": "医療法人社団研友会",
+        " 管理者": "森福　研一",
+        "name": "森福整形外科",
+        "address1": "駿河区丸子一丁目4番37号",
+        "address2": "",
+        "start_date": "2006/05/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.358465,
+          34.944435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "70",
+        " 開設者": "医療法人社団　明仁会",
+        " 管理者": "水谷　彰仁",
+        "name": "水谷痛みのクリニック",
+        "address1": "葵区鷹匠一丁目11番15号",
+        "address2": "MIC新静岡2階3階",
+        "start_date": "2009/02/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.387778,
+          34.976081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "134",
+        " 開設者": "医療法人社団MNS",
+        " 管理者": "水谷　暢秀",
+        "name": "水谷脳神経外科クリニック",
+        "address1": "駿河区馬渕四丁目11番９号",
+        "address2": "",
+        "start_date": "2017/12/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.391242,
+          34.959503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "136",
+        " 開設者": "医療法人社団　杉浦内科",
+        " 管理者": "宮崎洋生",
+        "name": "杉浦内科",
+        "address1": "駿河区みずほ四丁目10番地の10",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.364854,
+          34.941077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "175",
+        " 開設者": "杉山　好彦",
+        " 管理者": "杉山　好彦",
+        "name": "杉山医院",
+        "address1": "清水区大手三丁目３番21号",
+        "address2": "",
+        "start_date": "2013/07/07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.481933,
+          35.029024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "124",
+        " 開設者": "医療法人社団　登呂杉山医院",
+        " 管理者": "杉山圭一",
+        "name": "杉山医院",
+        "address1": "駿河区登呂五丁目４番１号",
+        "address2": "",
+        "start_date": "1988/10/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.404238,
+          34.956153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "117",
+        " 開設者": "医療法人社団　泉町杉山医院",
+        " 管理者": "石井　裕",
+        "name": "杉山医院",
+        "address1": "駿河区泉町４番５号",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.388484,
+          34.968341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "45",
+        " 開設者": "医療法人社団　桜医会",
+        " 管理者": "菅野寛也",
+        "name": "菅野医院分院",
+        "address1": "葵区瀬名一丁目７番３号",
+        "address2": "",
+        "start_date": "1976/04/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.419341,
+          35.012805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "49",
+        " 開設者": "医療法人社団　瀬名こどもクリニック",
+        " 管理者": "望月康弘",
+        "name": "瀬名こどもクリニック",
+        "address1": "葵区瀬名中央3-28-20",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.421199,
+          35.0115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "173",
+        " 開設者": "医療法人社団　真樹会",
+        " 管理者": "小豆原　秀貴",
+        "name": "清水両河内診療所",
+        "address1": "清水区和田島693番地の１",
+        "address2": "",
+        "start_date": "2009/11/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.479121,
+          35.109842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "1",
+        " 開設者": "医療法人社団　青山会",
+        " 管理者": "青山　祐也",
+        "name": "青山医院",
+        "address1": "葵区北一丁目10番18号",
+        "address2": "",
+        "start_date": "2013/12/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.395074,
+          35.03501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "145",
+        " 開設者": "医療法人社団耕孝会",
+        " 管理者": "青木　孝夫",
+        "name": "青木内科医院",
+        "address1": "清水区興津清見寺町１４３番地の１７",
+        "address2": "",
+        "start_date": "1989/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.508989,
+          35.046139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "33",
+        " 開設者": "藤木　明",
+        " 管理者": "藤木　明",
+        "name": "静岡ハートリズムクリニック",
+        "address1": "葵区黒金町49パルシェ７階",
+        "address2": "",
+        "start_date": "2015/05/11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.388731,
+          34.972132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "27",
+        " 開設者": "医療法人社団芳誠会",
+        " 管理者": "川野辺　重之",
+        "name": "静岡駅前トラベルクリニック",
+        "address1": "葵区栄町２番地の５",
+        "address2": "アークビル402号",
+        "start_date": "2020/07/17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.391375,
+          34.974126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "112",
+        " 開設者": "医療法人社団ヴェリタス",
+        " 管理者": "真砂　園真",
+        "name": "静岡曲金クリニック",
+        "address1": "駿河区曲金三丁目５番５号",
+        "address2": "",
+        "start_date": "2005/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.406682,
+          34.976457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "108",
+        " 開設者": "社会福祉法人恩賜財団済生会支部　静岡県済生会",
+        " 管理者": "岡本　好史",
+        "name": "静岡済生会総合病院",
+        "address1": "駿河区小鹿一丁目１番１号",
+        "address2": "",
+        "start_date": "1948/09/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.412834,
+          34.976059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "51",
+        " 開設者": "医療法人社団仁智会",
+        " 管理者": "多田　耕平",
+        "name": "静岡市葵区の内科　多田クリニック",
+        "address1": "葵区北番町88番地の７",
+        "address2": "",
+        "start_date": "2020/10/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.369375,
+          34.979184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "5",
+        " 開設者": "静岡市",
+        " 管理者": "山田寛",
+        "name": "静岡市国民健康保険井川診療所",
+        "address1": "葵区井川1133-2",
+        "address2": "",
+        "start_date": "2003/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.244286,
+          35.222103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "172",
+        " 開設者": "静岡市",
+        " 管理者": "藤井　浩治",
+        "name": "静岡市立清水病院",
+        "address1": "清水区宮加三１２３１番地",
+        "address2": "",
+        "start_date": "2003/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.490058,
+          34.982913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "31",
+        " 開設者": "地方独立行政法人　静岡市立静岡病院",
+        " 管理者": "小野寺　知哉",
+        "name": "静岡市立静岡病院",
+        "address1": "葵区追手町10番93号",
+        "address2": "",
+        "start_date": "2016/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.379648,
+          34.978453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "32",
+        " 開設者": "医療法人社団静岡健生会",
+        " 管理者": "小林　豊子",
+        "name": "静岡田町診療所",
+        "address1": "葵区田町五丁目２２番地",
+        "address2": "",
+        "start_date": "2020/06/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.36855,
+          34.968154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "111",
+        " 開設者": "医療法人沖縄徳洲会",
+        " 管理者": "山之上　弘樹",
+        "name": "静岡徳洲会病院",
+        "address1": "駿河区下川原南１１番１号",
+        "address2": "",
+        "start_date": "2005/03/16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.384263,
+          34.931326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "93",
+        " 開設者": "医療法人社団　圭友会",
+        " 管理者": "石井　一徳",
+        "name": "石井内科医院",
+        "address1": "駿河区馬渕二丁目10番20号",
+        "address2": "",
+        "start_date": "1989/06/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.386506,
+          34.965266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "146",
+        " 開設者": "医療法人社団　俊友会",
+        " 管理者": "浅井　寿彦",
+        "name": "浅井内科医院",
+        "address1": "清水区中矢部町３番15号",
+        "address2": "",
+        "start_date": "1991/11/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.4814,
+          35.000544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "147",
+        " 開設者": "浅野　健",
+        " 管理者": "浅野　健",
+        "name": "浅野医院",
+        "address1": "清水区木の下町９９",
+        "address2": "",
+        "start_date": "2002/08/14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.468518,
+          35.00413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "189",
+        " 開設者": "川村　直見",
+        " 管理者": "川村　直見",
+        "name": "船越クリニック",
+        "address1": "清水区船越三丁目10番19号",
+        "address2": "",
+        "start_date": "1997/12/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.470735,
+          34.999067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "164",
+        " 開設者": "医療法人社団　博雅会",
+        " 管理者": "草ヶ谷　雅志",
+        "name": "草ヶ谷医院",
+        "address1": "清水区鶴舞町6-1",
+        "address2": "",
+        "start_date": "1993/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.472484,
+          35.016765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "165",
+        " 開設者": "杉江　進",
+        " 管理者": "杉江　進",
+        "name": "草薙眼科",
+        "address1": "清水区中之郷1丁目2-17",
+        "address2": "",
+        "start_date": "1985/10/17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.440396,
+          34.998894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "131",
+        " 開設者": "増田　裕行",
+        " 管理者": "増田　裕行",
+        "name": "増田こどもクリニック",
+        "address1": "駿河区豊田一丁目8番30号",
+        "address2": "",
+        "start_date": "2008/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.408926,
+          34.969088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "13",
+        " 開設者": "医療法人社団　龍翔襄司会瀧浪医院",
+        " 管理者": "瀧浪　愼介",
+        "name": "大河内診療所",
+        "address1": "葵区平野1097番地の39",
+        "address2": "",
+        "start_date": "2013/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.365327,
+          35.144248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "157",
+        " 開設者": "医療法人社団　顕宏会",
+        " 管理者": "大石　篤宏",
+        "name": "大石耳鼻のどアレルギー科クリニック",
+        "address1": "清水区高橋五丁目1－16",
+        "address2": "",
+        "start_date": "2002/03/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.46997,
+          35.025458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "12",
+        " 開設者": "医療法人社団　俊恵会",
+        " 管理者": "大石達夫",
+        "name": "大石内科循環器科医院",
+        "address1": "葵区鷹匠2-6-1",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.387481,
+          34.977348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "98",
+        " 開設者": "医療法人社団　陸和会",
+        " 管理者": "大村　博陸",
+        "name": "大村クリニック",
+        "address1": "駿河区中村町152番地の３",
+        "address2": "",
+        "start_date": "2017/04/03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.393748,
+          34.952726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "97",
+        " 開設者": "医療法人社団　広済会",
+        " 管理者": "大町  滋",
+        "name": "大町耳鼻咽喉科医院",
+        "address1": "駿河区八幡5-7-34",
+        "address2": "",
+        "start_date": "1990/06/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.399714,
+          34.965341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "158",
+        " 開設者": "大蝶　修司",
+        " 管理者": "大蝶　修司",
+        "name": "大蝶耳鼻咽喉科",
+        "address1": "清水区船原二丁目176-5",
+        "address2": "",
+        "start_date": "2007/01/12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.47179,
+          35.004622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "179",
+        " 開設者": "医療法人社団　清秀会",
+        " 管理者": "滝戸　直人",
+        "name": "滝戸医院",
+        "address1": "清水区村松原1丁目2-5",
+        "address2": "",
+        "start_date": "1989/11/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.489252,
+          35.000047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "28",
+        " 開設者": "地方職員共済組合静岡県支部",
+        " 管理者": "本川　哲也",
+        "name": "地方職員共済組合静岡県庁診療所",
+        "address1": "葵区追手町９番６号　県庁東館15階",
+        "address2": "",
+        "start_date": "2012/07/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.383043,
+          34.976962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "180",
+        " 開設者": "医療法人社団　慈康会",
+        " 管理者": "竹内　康史",
+        "name": "竹内クリニック",
+        "address1": "清水区追分二丁目７－１５",
+        "address2": "",
+        "start_date": "1991/01/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.475034,
+          35.013123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "181",
+        " 開設者": "医療法人社団　竹内内科",
+        " 管理者": "竹内　健",
+        "name": "竹内内科",
+        "address1": "清水区巴町２番５号",
+        "address2": "",
+        "start_date": "1991/01/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.486744,
+          35.017576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "91",
+        " 開設者": "医療法人社団　すこやかクリニック",
+        " 管理者": "天野　謙",
+        "name": "天野外科医院",
+        "address1": "駿河区見瀬243番地",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.390926,
+          34.956509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "121",
+        " 開設者": "医療法人社団　南昂会",
+        " 管理者": "田村茂樹",
+        "name": "田村外科医院",
+        "address1": "駿河区八幡3-21-26",
+        "address2": "",
+        "start_date": "1995/01/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.398513,
+          34.970857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "52",
+        " 開設者": "医療法人社団　聖敬会田中医院",
+        " 管理者": "池谷　賢太郎",
+        "name": "田中消化器科クリニック",
+        "address1": "葵区音羽町8番3号",
+        "address2": "",
+        "start_date": "1997/01/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.393705,
+          34.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "197",
+        " 開設者": "医療法人社団　浩栄会",
+        " 管理者": "渡辺　浩一",
+        "name": "渡辺内科医院",
+        "address1": "清水区上清水町11番18号",
+        "address2": "",
+        "start_date": "1989/06/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.479836,
+          35.010929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "183",
+        " 開設者": "医療法人社団秀樹会",
+        " 管理者": "土川　秀紀",
+        "name": "土川整形外科",
+        "address1": "清水区鶴舞町４番１２号",
+        "address2": "",
+        "start_date": "1989/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.473592,
+          35.017503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "127",
+        " 開設者": "加藤　高志",
+        " 管理者": "加藤　高志",
+        "name": "東静岡耳鼻科",
+        "address1": "駿河区曲金六丁目10番14号",
+        "address2": "東静岡サウスクリニックモール２Ｆ",
+        "start_date": "2012/12/19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.412626,
+          34.9823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "55",
+        " 開設者": "医療法人社団　東泉クリニック",
+        " 管理者": "宮部　理香",
+        "name": "東泉クリニック",
+        "address1": "葵区呉服町一丁目20番地",
+        "address2": "呉服町タワー204号",
+        "start_date": "2014/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.380437,
+          34.975867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "167",
+        " 開設者": "独立行政法人地域医療機能推進機構",
+        " 管理者": "根橋　良雄",
+        "name": "独立行政法人地域医療機能推進機構　桜ヶ丘病院",
+        "address1": "清水区桜が丘町１３番２３号",
+        "address2": "",
+        "start_date": "1948/04/21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.479556,
+          35.009218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "64",
+        " 開設者": "星野　恒雄",
+        " 管理者": "星野　恒雄",
+        "name": "内科・循環器科  星野医院",
+        "address1": "葵区上足洗2-11-45",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.393619,
+          34.99319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "57",
+        " 開設者": "鏑木　敏志",
+        " 管理者": "鏑木　敏志",
+        "name": "内科・循環器内科　鏑木医院",
+        "address1": "葵区岳美15番50号",
+        "address2": "",
+        "start_date": "2019/01/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.388422,
+          35.009463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "188",
+        " 開設者": "医療法人社団　銀杏会",
+        " 管理者": "日野　昌徳",
+        "name": "日野医院",
+        "address1": "清水区蒲原新栄６６－２",
+        "address2": "",
+        "start_date": "1999/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.622626,
+          35.125454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "9",
+        " 開設者": "医療法人社団　龍翔襄司会瀧浪医院",
+        " 管理者": "瀧浪　愼介",
+        "name": "梅ヶ島診療所",
+        "address1": "葵区梅ヶ島1326番地先",
+        "address2": "",
+        "start_date": "2010/09/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.342192,
+          35.2441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "115",
+        " 開設者": "医療法人社団　しらとり会",
+        " 管理者": "白鳥　隆",
+        "name": "白鳥消化器内科医院",
+        "address1": "駿河区豊田一丁目７番22号",
+        "address2": "",
+        "start_date": "2008/05/03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.409646,
+          34.969641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "43",
+        " 開設者": "医療法人社団　白鳥下村会",
+        " 管理者": "白鳥　奈津子",
+        "name": "白鳥内科クリニック",
+        "address1": "葵区神明町103番地の２",
+        "address2": "",
+        "start_date": "2010/10/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.368466,
+          34.981303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "42",
+        " 開設者": "医療法人社団　スワン",
+        " 管理者": "白鳥博",
+        "name": "白鳥内科医院",
+        "address1": "葵区片羽町５８番地",
+        "address2": "",
+        "start_date": "2004/01/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.373574,
+          34.982994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "114",
+        " 開設者": "医療法人社団秀慈会",
+        " 管理者": "坂田　壽衛",
+        "name": "白萩病院",
+        "address1": "駿河区西大谷１６番地の１",
+        "address2": "",
+        "start_date": "2003/04/14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.426373,
+          34.951613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "80",
+        " 開設者": "医療法人社団　幸樹会",
+        " 管理者": "八木秀樹",
+        "name": "八木循環器内科",
+        "address1": "葵区竜南三丁目11番８号",
+        "address2": "",
+        "start_date": "2018/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.399968,
+          34.998648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "94",
+        " 開設者": "医療法人社団エスアンドアール",
+        " 管理者": "板井　茂行",
+        "name": "板井クリニック",
+        "address1": "駿河区曲金七丁目7番19号",
+        "address2": "",
+        "start_date": "2008/10/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.415764,
+          34.980609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "92",
+        " 開設者": "飯室優",
+        " 管理者": "飯室優",
+        "name": "飯室クリニック",
+        "address1": "駿河区馬渕四丁目16番12号",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.389715,
+          34.959517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "59",
+        " 開設者": "医療法人社団　服部クリニック",
+        " 管理者": "服部文雄",
+        "name": "服部クリニック",
+        "address1": "葵区羽鳥五丁目７番30号",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.336889,
+          34.982696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "190",
+        " 開設者": "医療法人社団　鮒橋医院",
+        " 管理者": "鮒橋　建夫",
+        "name": "鮒橋医院",
+        "address1": "清水区由比北田467番地",
+        "address2": "",
+        "start_date": "1990/05/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.561811,
+          35.107329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "60",
+        " 開設者": "医療法人社団平慈会",
+        " 管理者": "平野　周太",
+        "name": "平野医院",
+        "address1": "葵区昭和町５番地の５",
+        "address2": "",
+        "start_date": "2019/01/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.383945,
+          34.971113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "120",
+        " 開設者": "寶積　健",
+        " 管理者": "寶積　健",
+        "name": "宝クリニック耳鼻咽喉科",
+        "address1": "駿河区東新田四丁目17番38号",
+        "address2": "",
+        "start_date": "2018/08/07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.375269,
+          34.943171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "83",
+        " 開設者": "医療法人社団　至誠会",
+        " 管理者": "芳村 直",
+        "name": "芳村整形外科医院",
+        "address1": "葵区長沼984番地",
+        "address2": "",
+        "start_date": "1989/01/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.42095,
+          34.991152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "77",
+        " 開設者": "医療法人社団　和優会",
+        " 管理者": "望月　剛",
+        "name": "望月内科消化器内科クリニック",
+        "address1": "葵区新伝馬一丁目11番23号",
+        "address2": "",
+        "start_date": "2011/05/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.363899,
+          34.997781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "130",
+        " 開設者": "医療法人社団玉桂会",
+        " 管理者": "堀田　宗文",
+        "name": "堀田内科医院",
+        "address1": "駿河区宮竹一丁目4番7号",
+        "address2": "",
+        "start_date": "2008/08/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.414501,
+          34.953596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "20",
+        " 開設者": "医療法人社団　芳樹会",
+        " 管理者": "木下優",
+        "name": "木下医院",
+        "address1": "葵区与左衛門新田39番地の10",
+        "address2": "",
+        "start_date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.358628,
+          35.01464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "125",
+        " 開設者": "医療法人社団　愃健会野口医院",
+        " 管理者": "野口　健治",
+        "name": "野口耳鼻咽喉科医院",
+        "address1": "駿河区曲金四丁目３番７号",
+        "address2": "",
+        "start_date": "2012/10/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.410373,
+          34.977618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "151",
+        " 開設者": "竹田　定生",
+        " 管理者": "竹田　定生",
+        "name": "有東坂しいのきクリニック",
+        "address1": "清水区有東坂5-14",
+        "address2": "",
+        "start_date": "2006/09/07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.464838,
+          35.006491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "46",
+        " 開設者": "医療法人社団　健美会",
+        " 管理者": "鈴木　健司",
+        "name": "鈴木整形外科",
+        "address1": "葵区山崎一丁目26番地の６",
+        "address2": "",
+        "start_date": "2013/04/20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.351537,
+          34.977464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "47",
+        " 開設者": "医療法人社団英生会",
+        " 管理者": "鈴木　研一郎",
+        "name": "鈴木内科医院",
+        "address1": "葵区安倍口新田526番地の3",
+        "address2": "",
+        "start_date": "2009/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.362119,
+          35.021976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "86",
+        " 開設者": "医療法人社団　静徳会２２世紀",
+        " 管理者": "脇理一郎",
+        "name": "脇理一郎クリニック",
+        "address1": "葵区緑町５番３号",
+        "address2": "",
+        "start_date": "2007/07/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.390642,
+          34.988027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "187",
+        " 開設者": "医療法人社団　潘医院",
+        " 管理者": "潘　康明",
+        "name": "潘医院",
+        "address1": "清水区由比阿僧962番地",
+        "address2": "",
+        "start_date": "2009/05/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.559588,
+          35.11189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "191",
+        " 開設者": "医療法人社団　医眞会",
+        " 管理者": "眞　重雄",
+        "name": "眞内科クリニック",
+        "address1": "清水区入江南町９番24号",
+        "address2": "",
+        "start_date": "1997/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.478636,
+          35.016545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "123",
+        " 開設者": "医療法人社団　敬愛会",
+        " 管理者": "中村　俊文",
+        "name": "褚内科医院",
+        "address1": "駿河区小鹿430-3",
+        "address2": "",
+        "start_date": "1989/11/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.424389,
+          34.973746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "#": "50",
+        " 開設者": "髙橋　直之",
+        " 管理者": "髙橋　直之",
+        "name": "髙橋内科医院",
+        "address1": "葵区本通五丁目2-8",
+        "address2": "",
+        "start_date": "2009/04/01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.37611,
+          34.972629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "イオンタウン蒲原　（6/5〜、土・日のみ）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.609659,
+          35.118623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "葵区役所　１階ロビー　（７月以降）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.382739,
+          34.975582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "駿河区役所　３階　大会議室１"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.404099,
+          34.960717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "城東保健福祉エリア　保健福祉複合棟　３階"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.38748,
+          34.985606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "清水区役所　３階　３１３会議室"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.489563,
+          35.015676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "清水保健福祉センター　３階　視聴覚室"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.470258,
+          35.020337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "清水北部交流センター （〜8/12まで、土・日のみ）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.471219,
+          35.041057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "静岡モディ　４階"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.387226,
+          34.973835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "長田生涯学習センター　（7/11、8/1のみ）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.358591,
+          34.939266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "長尾川老人福祉センター　（6/13、7/4のみ）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.427007,
+          35.037244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東海大学　三保研修館"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.521368,
+          35.018239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南部保健福祉センター　（7/18、8/8のみ）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.405417,
+          34.972928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "用宗老人福祉センター　（〜8/12まで）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.362425,
+          34.919052
+        ]
+      }
+    }
+  ]
+}
